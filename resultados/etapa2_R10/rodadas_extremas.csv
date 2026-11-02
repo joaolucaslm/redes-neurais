@@ -1,0 +1,4 @@
+modelo;rodada_maior;acuracia_maior;rodada_menor;acuracia_menor
+Perceptron Simples;10;1.0000;2;0.9453
+ADALINE;5;0.9922;2;0.9531
+MLP;10;1.0000;2;0.9531

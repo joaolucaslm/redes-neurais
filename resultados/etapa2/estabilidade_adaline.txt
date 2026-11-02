@@ -1,0 +1,2 @@
+lambda_max(R) = 139.0614
+eta_max = 2/lambda_max = 0.014382

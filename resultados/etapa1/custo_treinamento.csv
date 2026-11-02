@@ -1,0 +1,4 @@
+modelo;epocas_media;epocas_min;epocas_max;tempo_medio_por_rodada_s
+Perceptron Simples;100.0;100;100;0.5402
+ADALINE;174.0;104;219;0.6927
+MLP;1965.7;1264;2000;0.3857

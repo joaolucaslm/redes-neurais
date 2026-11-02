@@ -1,0 +1,20 @@
+{
+  "perceptron": {
+    "taxa_aprendizado": 0.01,
+    "max_epocas": 100
+  },
+  "adaline": {
+    "taxa_aprendizado": 0.0001,
+    "max_epocas": 500,
+    "precisao": 1e-06
+  },
+  "mlp": {
+    "camadas_ocultas": [
+      5,
+      5
+    ],
+    "taxa_aprendizado": 2.0,
+    "max_epocas": 2000,
+    "precisao": 0.001
+  }
+}

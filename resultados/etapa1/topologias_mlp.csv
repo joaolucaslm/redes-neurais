@@ -1,0 +1,4 @@
+caso;topologia;n_pesos;eta;epocas_media;eqm_treino;eqm_treino_dp;eqm_teste;eqm_teste_dp;acuracia_treino;acuracia_treino_dp;acuracia_teste;acuracia_teste_dp;sensibilidade_teste;sensibilidade_teste_dp;especificidade_teste;especificidade_teste_dp;tempo_medio_s
+Subdimensionada;2-2-1;9;2;2000;0.208917;0.041120;0.229306;0.053012;0.868214;0.037884;0.847143;0.049898;0.988805;0.007734;0.519093;0.142556;0.15
+Adequada;2-5-5-1;51;2;2000;0.006392;0.006292;0.007381;0.005115;0.997143;0.003912;0.995714;0.002988;0.994965;0.003522;0.997222;0.006211;0.41
+Superdimensionada;2-60-60-60-1;7561;1;15000;0.006086;0.013575;0.013236;0.016749;0.996964;0.006788;0.992143;0.009583;0.996029;0.004064;0.981786;0.027922;62.25

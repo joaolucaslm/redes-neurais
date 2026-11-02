@@ -1,0 +1,24 @@
+Análise por classe - soma das matrizes de confusão das 10 rodadas
+
+Perceptron Simples:
+  piores: sz24 (0.881), mitchell (0.908), danieln (0.936), megak (0.947)
+  melhores: steffi (1.000), kk49 (1.000), night (1.000), phoebe (1.000)
+  pessoas com 100% de acerto: 8 de 20
+  confusões mais frequentes (real -> previsto: vezes): sz24->cheyer: 5, mitchell->tammo: 3, sz24->kawamura: 2, at33->bpm: 2, mitchell->megak: 2
+
+ADALINE:
+  piores: sz24 (0.881), mitchell (0.923), glickman (0.941), megak (0.947)
+  melhores: saavik (1.000), steffi (1.000), night (1.000), phoebe (1.000)
+  pessoas com 100% de acerto: 11 de 20
+  confusões mais frequentes (real -> previsto: vezes): sz24->choon: 4, choon->megak: 3, karyadi->tammo: 2, glickman->choon: 2, mitchell->sz24: 1
+
+MLP:
+  piores: sz24 (0.881), mitchell (0.908), megak (0.947), choon (0.952)
+  melhores: saavik (1.000), steffi (1.000), night (1.000), phoebe (1.000)
+  pessoas com 100% de acerto: 12 de 20
+  confusões mais frequentes (real -> previsto: vezes): mitchell->megak: 4, sz24->karyadi: 2, karyadi->tammo: 2, choon->glickman: 2, mitchell->danieln: 1
+
+Correlação (Pearson) entre as taxas de acerto por pessoa dos modelos:
+  Perceptron Simples x ADALINE: 0.861
+  Perceptron Simples x MLP: 0.890
+  ADALINE x MLP: 0.963

@@ -1,0 +1,23 @@
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Pacote de entrega (gerado a partir dos arquivos do repositório)
+*.zip
+
+# Logs das execuções (podem ser gerados de novo rodando os scripts)
+resultados/log_*.txt
+
+# Relatório: só o PDF final é versionado; o .docx é gerado por relatorio/gerar_relatorio.py
+relatorio/*.docx
+~$*
+
+# Arquivos do editor e do sistema
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store

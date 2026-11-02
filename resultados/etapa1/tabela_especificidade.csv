@@ -1,0 +1,4 @@
+Modelo;Media;Desvio-Padrao;Maior Valor;Menor Valor
+Perceptron Simples;0.5035;0.2827;1.0000;0.0000
+ADALINE;0.5526;0.0509;0.7108;0.4217
+MLP;0.9836;0.0237;1.0000;0.7733

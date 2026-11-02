@@ -1,0 +1,4 @@
+modelo;epocas_media;epocas_min;epocas_max;tempo_medio_s
+Perceptron Simples;8.0;5;11;0.044
+ADALINE;28.6;23;46;0.792
+MLP;1500.0;1500;1500;4.923
