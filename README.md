@@ -2,6 +2,7 @@
 
 Disciplina: Inteligência Artificial Computacional – UNIFOR  
 Professor: Prof. Msc. Paulo Cirillo Souza Barbosa
+
 Repositório: https://github.com/joaolucaslm/redes-neurais
 
 Implementação, apenas com **numpy, matplotlib, seaborn e opencv-python**, dos modelos
